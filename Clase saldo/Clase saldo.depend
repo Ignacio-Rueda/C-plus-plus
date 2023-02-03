@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635879134 source:/home/rueda/Documentos/Proyectos c++/Clase saldo/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+

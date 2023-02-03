@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636627093 source:/home/rueda/Documentos/Proyectos c++/clase matrices/main.cpp
+	<iostream>
+	<vector>
+	<assert.h>
+

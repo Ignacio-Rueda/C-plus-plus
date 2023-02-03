@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634829878 source:/home/rueda/Documentos/Proyectos c++/Lectura datos para persona/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+

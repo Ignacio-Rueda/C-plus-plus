@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637408264 source:/home/rueda/Documentos/Proyectos c++/Compra/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<vector>
+	<cmath>
+

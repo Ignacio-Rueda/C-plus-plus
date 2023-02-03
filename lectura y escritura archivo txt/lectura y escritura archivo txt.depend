@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636650028 source:/home/rueda/Documentos/Proyectos c++/lectura y escritura archivo txt/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+
